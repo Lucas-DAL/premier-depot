@@ -1,0 +1,13 @@
+
+| **Outil**               | **Adresse de téléchargement**                    | **Version** |  **Options**         | **Commande ou vérification**                 | **Problèmes**                                       |
+| :------------------     | :------------------------                        | :---------: | :------------------: | :------------------------------------------: | :-------------------------------------------------- |
+| Git                     | https://git-scm.com/                             | 2.56.1      | Git LFS, Scalar      | vérifier compatibilité système et version    | Permission refusé pour mettre le nom et mail, Résolu grace : [Environment]::SetEnvironmentVariable("HOME", $env:USERPROFILE)|
+| Visualstudio Code       | https://code.visualstudio.com/download           | 1.147.0     |          -           | vérifier compatibilité système et version    | Enlever le mode restriction                         |
+| Node.js                 | https://nodejs.org/fr                            | v26.13.1    |          -           | vérifier compatibilité système et version    |                                                     |     
+| Firefox                 | https://www.firefox.com/en-US/download/windows/  | 160.0.1     | Par défaut           | vérifier compatibilité système et version    |                                                     |
+| Chrome                  | https://www.google.com/chrome/                   | 160.0.1     | Par défaut           | vérifier compatibilité système et version    |                                                     |
+| Live Server             | Dans Visualstudio code                           | 5.6.1       |          -           | Changer adresse hôte                         |                                                     |
+| Prettier                | Dans Visualstudio code                           | 12.4.0      |          -           |                     -                        |                                                     |
+| Error Lens              | Dans Visualstudio code                           | 3.30.0      |          -           |                     -                        |                                                     |
+| French Language Pack    | Dans Visualstudio code                           | v.1.131     |          -           |                     -                        |                                                     |
+| ESLint                  | Dans Visualstudio code                           | v3.0.33     |          -           |                     -                        |                                                     |
